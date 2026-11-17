@@ -1,10 +1,5 @@
-<<<<<<< HEAD
+
 # Leakage-Aware Learning for Cognitive Assessment and Progression Prediction in Alzheimer's Disease
-
-Official code repository for:
-
-**"Leakage-Aware Learning for Cognitive Assessment and Progression Prediction in Alzheimer's Disease"**
-
 *Devashree Parikh, Mehul S. Raval*
 (Ahmedabad University)
 
@@ -94,7 +89,6 @@ N = 364 scans, N = 200 subjects.
 
 ```text
 ├── src/
-<<<<<<< HEAD
 │   ├── 01_preprocessing/
 │   ├── 02_static_regression/
 │   ├── 03_temporal_forecasting/
