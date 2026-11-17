@@ -1,0 +1,37 @@
+# Python bytecode
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+.venv/
+env/
+venv/
+
+# Raw Neuroimaging and Heavy Genotypic Data
+# ADNI DUA compliance and GitHub file size protection
+
+*.dcm
+*.nii
+*.nii.gz
+*.mgz
+*.bed
+*.bim
+*.fam
+*.ped
+*.map
+*.zip
+*.tar.gz
+
+2timesdataextracted/
+CVProject/
+CVProject_end/data/mri/
+CVProject_end/matched_brain/
+roi_cache_s16/
+
+# OS artifacts
+
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,56 @@
+repetition,fold,model,target,best_params,best_epoch,graph_mode,use_apoe
+1,1,tab_extratrees,MMSCORE,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,1,tab_extratrees,CDRSB,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}",,,
+1,1,tab_extratrees,TOTAL13,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,1,dense_group__APOE,,,24.0,dense_group,True
+1,1,dense_group__noAPOE,,,9.0,dense_group,False
+1,1,sparse_anatomical__APOE,,,33.0,sparse_anatomical,True
+1,1,sparse_anatomical__noAPOE,,,9.0,sparse_anatomical,False
+1,1,learnable_sparse__APOE,,,34.0,learnable_sparse,True
+1,1,learnable_sparse__noAPOE,,,9.0,learnable_sparse,False
+1,1,homologue__APOE,,,33.0,homologue,True
+1,1,homologue__noAPOE,,,10.0,homologue,False
+1,2,tab_extratrees,MMSCORE,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,2,tab_extratrees,CDRSB,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,2,tab_extratrees,TOTAL13,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,2,dense_group__APOE,,,44.0,dense_group,True
+1,2,dense_group__noAPOE,,,28.0,dense_group,False
+1,2,sparse_anatomical__APOE,,,32.0,sparse_anatomical,True
+1,2,sparse_anatomical__noAPOE,,,36.0,sparse_anatomical,False
+1,2,learnable_sparse__APOE,,,32.0,learnable_sparse,True
+1,2,learnable_sparse__noAPOE,,,49.0,learnable_sparse,False
+1,2,homologue__APOE,,,14.0,homologue,True
+1,2,homologue__noAPOE,,,49.0,homologue,False
+1,3,tab_extratrees,MMSCORE,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}",,,
+1,3,tab_extratrees,CDRSB,"{'model__max_features': 0.6, 'model__min_samples_leaf': 3}",,,
+1,3,tab_extratrees,TOTAL13,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,3,dense_group__APOE,,,12.0,dense_group,True
+1,3,dense_group__noAPOE,,,12.0,dense_group,False
+1,3,sparse_anatomical__APOE,,,12.0,sparse_anatomical,True
+1,3,sparse_anatomical__noAPOE,,,12.0,sparse_anatomical,False
+1,3,learnable_sparse__APOE,,,12.0,learnable_sparse,True
+1,3,learnable_sparse__noAPOE,,,10.0,learnable_sparse,False
+1,3,homologue__APOE,,,11.0,homologue,True
+1,3,homologue__noAPOE,,,11.0,homologue,False
+1,4,tab_extratrees,MMSCORE,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,4,tab_extratrees,CDRSB,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}",,,
+1,4,tab_extratrees,TOTAL13,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,4,dense_group__APOE,,,15.0,dense_group,True
+1,4,dense_group__noAPOE,,,9.0,dense_group,False
+1,4,sparse_anatomical__APOE,,,15.0,sparse_anatomical,True
+1,4,sparse_anatomical__noAPOE,,,8.0,sparse_anatomical,False
+1,4,learnable_sparse__APOE,,,15.0,learnable_sparse,True
+1,4,learnable_sparse__noAPOE,,,8.0,learnable_sparse,False
+1,4,homologue__APOE,,,22.0,homologue,True
+1,4,homologue__noAPOE,,,8.0,homologue,False
+1,5,tab_extratrees,MMSCORE,"{'model__max_features': 0.6, 'model__min_samples_leaf': 3}",,,
+1,5,tab_extratrees,CDRSB,"{'model__max_features': 0.6, 'model__min_samples_leaf': 3}",,,
+1,5,tab_extratrees,TOTAL13,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}",,,
+1,5,dense_group__APOE,,,20.0,dense_group,True
+1,5,dense_group__noAPOE,,,33.0,dense_group,False
+1,5,sparse_anatomical__APOE,,,11.0,sparse_anatomical,True
+1,5,sparse_anatomical__noAPOE,,,33.0,sparse_anatomical,False
+1,5,learnable_sparse__APOE,,,17.0,learnable_sparse,True
+1,5,learnable_sparse__noAPOE,,,23.0,learnable_sparse,False
+1,5,homologue__APOE,,,17.0,homologue,True
+1,5,homologue__noAPOE,,,23.0,homologue,False

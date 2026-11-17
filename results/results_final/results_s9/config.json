@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "target": "MMSCORE",
+  "n_subjects": 204,
+  "folds": 5,
+  "epochs": 60,
+  "batch_size": 16,
+  "device": "cuda",
+  "arms": {
+    "A0_demo": 3,
+    "A1_demo_apoe": 4,
+    "A2_demo_mri": 1541,
+    "A3_demo_mri_apoe": 1542
+  },
+  "target_policy": "latest eligible visit per participant",
+  "history_policy": "up to 2 most recent visits"
+}

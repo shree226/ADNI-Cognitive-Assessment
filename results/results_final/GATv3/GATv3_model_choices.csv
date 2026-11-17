@@ -1,0 +1,36 @@
+repetition,fold,model,target,best_params,best_epoch,graph_mode,use_apoe
+1,1,tab_extratrees,MMSCORE,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,1,tab_extratrees,CDRSB,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}",,,
+1,1,tab_extratrees,TOTAL13,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,1,sparse_anatomical__APOE,,,10.0,sparse_anatomical,True
+1,1,sparse_anatomical__noAPOE,,,14.0,sparse_anatomical,False
+1,1,hardconcrete_sparse__APOE,,,15.0,hardconcrete_sparse,True
+1,1,hardconcrete_sparse__noAPOE,,,13.0,hardconcrete_sparse,False
+1,2,tab_extratrees,MMSCORE,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,2,tab_extratrees,CDRSB,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,2,tab_extratrees,TOTAL13,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,2,sparse_anatomical__APOE,,,38.0,sparse_anatomical,True
+1,2,sparse_anatomical__noAPOE,,,38.0,sparse_anatomical,False
+1,2,hardconcrete_sparse__APOE,,,117.0,hardconcrete_sparse,True
+1,2,hardconcrete_sparse__noAPOE,,,150.0,hardconcrete_sparse,False
+1,3,tab_extratrees,MMSCORE,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}",,,
+1,3,tab_extratrees,CDRSB,"{'model__max_features': 0.6, 'model__min_samples_leaf': 3}",,,
+1,3,tab_extratrees,TOTAL13,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,3,sparse_anatomical__APOE,,,15.0,sparse_anatomical,True
+1,3,sparse_anatomical__noAPOE,,,20.0,sparse_anatomical,False
+1,3,hardconcrete_sparse__APOE,,,20.0,hardconcrete_sparse,True
+1,3,hardconcrete_sparse__noAPOE,,,108.0,hardconcrete_sparse,False
+1,4,tab_extratrees,MMSCORE,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,4,tab_extratrees,CDRSB,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}",,,
+1,4,tab_extratrees,TOTAL13,"{'model__max_features': 0.6, 'model__min_samples_leaf': 2}",,,
+1,4,sparse_anatomical__APOE,,,7.0,sparse_anatomical,True
+1,4,sparse_anatomical__noAPOE,,,12.0,sparse_anatomical,False
+1,4,hardconcrete_sparse__APOE,,,101.0,hardconcrete_sparse,True
+1,4,hardconcrete_sparse__noAPOE,,,49.0,hardconcrete_sparse,False
+1,5,tab_extratrees,MMSCORE,"{'model__max_features': 0.6, 'model__min_samples_leaf': 3}",,,
+1,5,tab_extratrees,CDRSB,"{'model__max_features': 0.6, 'model__min_samples_leaf': 3}",,,
+1,5,tab_extratrees,TOTAL13,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}",,,
+1,5,sparse_anatomical__APOE,,,14.0,sparse_anatomical,True
+1,5,sparse_anatomical__noAPOE,,,14.0,sparse_anatomical,False
+1,5,hardconcrete_sparse__APOE,,,112.0,hardconcrete_sparse,True
+1,5,hardconcrete_sparse__noAPOE,,,112.0,hardconcrete_sparse,False

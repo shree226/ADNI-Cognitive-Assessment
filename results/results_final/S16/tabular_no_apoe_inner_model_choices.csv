@@ -1,0 +1,46 @@
+fold,model,target,best_params
+1,tabular_no_apoe_ridge,MMSCORE,{'model__alpha': 300.0}
+1,tabular_no_apoe_ridge,CDRSB,{'model__alpha': 300.0}
+1,tabular_no_apoe_ridge,TOTAL13,{'model__alpha': 300.0}
+1,tabular_no_apoe_extratrees,MMSCORE,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}"
+1,tabular_no_apoe_extratrees,CDRSB,"{'model__max_features': 1.0, 'model__min_samples_leaf': 5}"
+1,tabular_no_apoe_extratrees,TOTAL13,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}"
+1,tabular_no_apoe_histgb,MMSCORE,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+1,tabular_no_apoe_histgb,CDRSB,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+1,tabular_no_apoe_histgb,TOTAL13,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+2,tabular_no_apoe_ridge,MMSCORE,{'model__alpha': 300.0}
+2,tabular_no_apoe_ridge,CDRSB,{'model__alpha': 300.0}
+2,tabular_no_apoe_ridge,TOTAL13,{'model__alpha': 300.0}
+2,tabular_no_apoe_extratrees,MMSCORE,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}"
+2,tabular_no_apoe_extratrees,CDRSB,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}"
+2,tabular_no_apoe_extratrees,TOTAL13,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}"
+2,tabular_no_apoe_histgb,MMSCORE,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+2,tabular_no_apoe_histgb,CDRSB,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+2,tabular_no_apoe_histgb,TOTAL13,"{'model__l2_regularization': 1.0, 'model__max_iter': 160, 'model__max_leaf_nodes': 5}"
+3,tabular_no_apoe_ridge,MMSCORE,{'model__alpha': 300.0}
+3,tabular_no_apoe_ridge,CDRSB,{'model__alpha': 300.0}
+3,tabular_no_apoe_ridge,TOTAL13,{'model__alpha': 300.0}
+3,tabular_no_apoe_extratrees,MMSCORE,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}"
+3,tabular_no_apoe_extratrees,CDRSB,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}"
+3,tabular_no_apoe_extratrees,TOTAL13,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}"
+3,tabular_no_apoe_histgb,MMSCORE,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+3,tabular_no_apoe_histgb,CDRSB,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+3,tabular_no_apoe_histgb,TOTAL13,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+4,tabular_no_apoe_ridge,MMSCORE,{'model__alpha': 100.0}
+4,tabular_no_apoe_ridge,CDRSB,{'model__alpha': 100.0}
+4,tabular_no_apoe_ridge,TOTAL13,{'model__alpha': 100.0}
+4,tabular_no_apoe_extratrees,MMSCORE,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}"
+4,tabular_no_apoe_extratrees,CDRSB,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}"
+4,tabular_no_apoe_extratrees,TOTAL13,"{'model__max_features': 0.8, 'model__min_samples_leaf': 2}"
+4,tabular_no_apoe_histgb,MMSCORE,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+4,tabular_no_apoe_histgb,CDRSB,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+4,tabular_no_apoe_histgb,TOTAL13,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+5,tabular_no_apoe_ridge,MMSCORE,{'model__alpha': 300.0}
+5,tabular_no_apoe_ridge,CDRSB,{'model__alpha': 300.0}
+5,tabular_no_apoe_ridge,TOTAL13,{'model__alpha': 300.0}
+5,tabular_no_apoe_extratrees,MMSCORE,"{'model__max_features': 0.8, 'model__min_samples_leaf': 5}"
+5,tabular_no_apoe_extratrees,CDRSB,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}"
+5,tabular_no_apoe_extratrees,TOTAL13,"{'model__max_features': 1.0, 'model__min_samples_leaf': 2}"
+5,tabular_no_apoe_histgb,MMSCORE,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+5,tabular_no_apoe_histgb,CDRSB,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
+5,tabular_no_apoe_histgb,TOTAL13,"{'model__l2_regularization': 1.0, 'model__max_iter': 100, 'model__max_leaf_nodes': 5}"
