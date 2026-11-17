@@ -41,21 +41,22 @@ This repository provides reproducible code for evaluating multimodal neuroimagin
 | **$P_5$ (Compound Leaked)** | Scan split + global PCA + global selection | **0.473** | **+0.104** | **-0.043** (+0.155) |
 
 ---
-
 ## Repository Structure
 
+```text
 ├── src/
-│   ├── 01_preprocessing/       # Scan anchoring and FastSurfer morphometry parsing
-│   ├── 02_static_regression/   # GATv3, ExtraTrees, and 3D ConvViT models
-│   ├── 03_temporal_forecasting/# Autoregressive forecasting & linear mixed models
-│   ├── 04_classification/      # CN vs. AD neural fusion & decline classifiers
-│   ├── 05_leakage_audit/       # P0-P5 leakage quantification engine
-│   └── 06_visualization/       # Standalone scripts to reproduce paper figures
-├── data/                       # Anchored feature matrices (scan_table.csv, richer_features.csv)
-├── results/                    # Pre-computed cross-validated outputs matching paper tables
-├── paper/                      # IEEE 2-column LaTeX manuscript & high-res figures
+│   ├── 01_preprocessing/      # Scan anchoring and FastSurfer morphometry parsing
+│   ├── 02_static_regression/  # GATv3, ExtraTrees, and 3D ConvViT models
+│   ├── 03_temporal_forecasting/ # Autoregressive forecasting & linear mixed models
+│   ├── 04_classification/     # CN vs. AD neural fusion & decline classifiers
+│   ├── 05_leakage_audit/      # P0-P5 leakage quantification engine
+│   └── 06_visualization/      # Standalone scripts to reproduce paper figures
+├── data/                      # Anchored feature matrices (scan_table.csv, richer_features.csv)
+├── results/                   # Pre-computed cross-validated outputs matching paper tables
+├── paper/                     # IEEE 2-column LaTeX manuscript & high-res figures
 ├── requirements.txt
 └── README.md
+```
 ### Project Background
 
 This research follows an earlier collaborative CSE641 Computer Vision course project at Ahmedabad University, undertaken with Dhriti Gandhi, Yash Shah, and Ura Modi. The initial project explored MRI-based approaches to Alzheimer's disease, including MedicalNet-derived features. The present work builds upon selected components of that earlier work while investigating additional MRI representations, cognitive prediction tasks, classification approaches, and leakage-aware evaluation. The subsequent experiments and analyses presented in this repository were conducted independently by Devashree Parikh.
