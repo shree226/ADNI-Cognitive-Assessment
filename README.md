@@ -1,12 +1,12 @@
 # ADNI-Cognitive-Assessment
-"""# Leakage-Aware Learning for Cognitive Assessment and Progression Prediction in Alzheimer's Disease
+# Leakage-Aware Learning for Cognitive Assessment and Progression Prediction in Alzheimer's Disease
 
 Official code repository for:
 **"Leakage-Aware Learning for Cognitive Assessment and Progression Prediction in Alzheimer's Disease"**  
 *Devashree Parikh, Mehul S. Raval* (Ahmedabad University)  
 Data obtained from the **Alzheimer's Disease Neuroimaging Initiative (ADNI)**.
 
----
+
 
 ## Overview
 
