@@ -65,7 +65,7 @@ ADNI-Cognitive-Assessment/
 │   └── 06_visualization/          # Scripts for reproducing paper figures
 ├── data/                          # Derived feature matrices and scan metadata
 ├── results/                       # Experimental outputs and evaluation results
-├── paper/                         # LaTeX manuscript and figures
+├── Leakage-Aware Learning for Cognitive Assessment and Progression Prediction in Alzheimer’s Disease                         # Final Paper
 ├── requirements.txt
 └── README.md
 ```
